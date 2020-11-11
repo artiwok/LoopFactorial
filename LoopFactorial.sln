@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopFactorial", "LoopFactorial\LoopFactorial.csproj", "{62933006-271E-44D6-B237-A9F0FD4543B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62933006-271E-44D6-B237-A9F0FD4543B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62933006-271E-44D6-B237-A9F0FD4543B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62933006-271E-44D6-B237-A9F0FD4543B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62933006-271E-44D6-B237-A9F0FD4543B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0872A940-30D7-4F4D-917C-95B91F077A37}
+	EndGlobalSection
+EndGlobal
